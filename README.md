@@ -1,4 +1,4 @@
-## Hi there 👋
+## See Me on Gitlab @
 
 <!--
 **DomPolizzi/DomPolizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->https://
+
+![Doms's gitlab stats](https://gitlab-readme-stats-gules.vercel.app/api?username=DomPolizzi&show_icons=true&theme=dark)
 
 
 <a href="https://github.com/DomPolizzi/DomPolizzi">
