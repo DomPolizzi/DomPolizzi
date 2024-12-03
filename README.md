@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Dom's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=DomPoe)
+
+
 <a href="https://github.com/DomPolizzi/DomPolizzi">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=DomPolizzi&hide=contribs&count_private=true&theme=tokyonight&show_icons=true" alt=" GitHub Stats" />
 </a>
