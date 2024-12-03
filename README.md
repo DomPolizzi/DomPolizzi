@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dom's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=DomPoe)
-
 
 <a href="https://github.com/DomPolizzi/DomPolizzi">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=DomPolizzi&hide=contribs&count_private=true&theme=tokyonight&show_icons=true" alt=" GitHub Stats" />
@@ -24,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/DomPolizzi/DomPolizzi">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp&count_private=true&theme=tokyonight&show_icons=true&hide=css&layout=compact&card_width=270" alt="The Lang Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomPolizzi&count_private=true&theme=tokyonight&show_icons=true&hide=css&layout=compact&card_width=270" alt="The Lang Stats" />
 </a>
