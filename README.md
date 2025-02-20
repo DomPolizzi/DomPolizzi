@@ -1,4 +1,4 @@
-## See My work on Gitlab @ DomPoe
+## See my work on Gitlab @ DomPoe
 
 - 🔭 I’m currently working on Automating deploying LLMs on demand : [HERE](https://github.com/DomPolizzi/Auto-llm-infra)
 - ⚡ My [Blog](https://dompolizzi.github.io/)
